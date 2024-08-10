@@ -1,0 +1,16 @@
+{
+  "name": "Homeview",
+  "description": "A Dashboard for your Homelab 🚀",
+  "repository": "https://github.com/khulnasoft/homeview",
+  "logo": "https://raw.githubusercontent.com/khulnasoft/homeview/master/docs/assets/logo.png",
+  "keywords": [
+    "node",
+    "vue",
+    "static",
+    "dashboard",
+    "self-hosted",
+    "home-lab",
+    "khulnasoft"
+  ],
+  "stack": "heroku-20"
+}
